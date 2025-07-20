@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "acid",
+    "name": "Acid",
+    "description": "fuck my life",
+    "version": "beta",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/WalmartSolutions",
+    "updateUrl": "",
+  
+    "authorList": [
+        "hood manager"
+    ],
+  
+    "credits": "cosmos & postman projects for help in reminding me how to use forge 1.12.2",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

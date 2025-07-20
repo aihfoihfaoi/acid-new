@@ -1,0 +1,20 @@
+{
+    "required": true,
+    "package": "hood.manager.acid.mixin.mixins",
+    "refmap": "mixins.acid.refmap.json",
+    "minVersion": "0.7.11",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "network.MixinNetworkManager",
+        "network.IMixinCPacketUseEntity",
+        "render.MixinEntityRenderer",
+        "render.MixinRenderItem",
+        "world.MixinWorld",
+        "entity.MixinEntity",
+        "player.MixinEntityPlayer",
+        "player.MixinAbstractClientPlayer",
+        "player.MixinEntityPlayerSP",
+        "ui.MixinFontRenderer",
+        "render.MixinRenderEnderCrystal"
+    ]
+}
